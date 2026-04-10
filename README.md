@@ -40,9 +40,8 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-[![Willian stats](https://github-readme-stats.vercel.app/api?username=willianmendes41)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Willian stats](https://github-readme-stats.vercel.app/api?username=willianmendes41)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
