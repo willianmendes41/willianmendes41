@@ -41,8 +41,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willianmendes41&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianmendes41&layout=compact&theme=tokyonight"/>
+[![Willian stats](https://github-readme-stats.vercel.app/api?username=willianmendes41)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
