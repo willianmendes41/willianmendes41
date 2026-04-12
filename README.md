@@ -40,8 +40,10 @@
 
 ## 📊 Estatísticas
 
-
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=willianmendes41)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willianmendes41&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianmendes41&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -65,7 +67,7 @@
 ## 🤝 Contato
 
 <p>
-  <a href="mailto:wmendes592@gmail.com">
+  <a href="mailto:willmendes592@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -73,4 +75,3 @@
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
