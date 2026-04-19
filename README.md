@@ -1,7 +1,7 @@
 <!-- 🔝 Banner -->
 
 <p align="center">
-  <img src="Banner github.png" alt="banner" width="100%"/>
+  <img src="banner.png" alt="banner" width="100%"/>
 </p>
 
 # 👋 Olá, eu sou o Willian Mendes
@@ -37,6 +37,14 @@
 </p>
 
 ---
+
+## 🎯 O Que Eu Faço <BR>
+✅ Desenvolvimento de interfaces modernas e responsivas com Javascrip,HTML,CSS <BR>
+✅ Implementação de boas práticas de código e arquitetura <BR>
+✅ Otimização de performance e experiência do usuário
+
+---
+
 
 ## 🔥 Streak
 
